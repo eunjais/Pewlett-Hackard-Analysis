@@ -8,6 +8,12 @@
 ## Overview
 The Pewlett-Hackard Analysis seeks to conduct a generalized HR analysis of the current population of employees working at the Pewlett-Hackard company. As many of the senior members reach their retirement age, we want to find out not only the precise number of those who are retiring and eligible for retirement packages, but also what their present titles are within the company so that proper replacements can be found for the future absence.
 
+A database diagram (DBD) was constructed prior to working with the data on pgAdmin 4. 
+
+![EmployeeDB](https://user-images.githubusercontent.com/107447038/183348128-24a38306-37a5-4828-8725-6b067fb1b6d6.png)
+
+
+
 ## Deliverable 1
 
 ### Results
