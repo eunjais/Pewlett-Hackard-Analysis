@@ -1,4 +1,9 @@
 # Pewlett-Hackard-Analysis
+### Programs Used:
+- pgAdmin 4
+- Quick DBD
+- Visual Studio Code
+- .csv, .sql and .png files
 
 ## Overview
 The Pewlett-Hackard Analysis seeks to conduct a generalized HR analysis of the current population of employees working at the Pewlett-Hackard company. As many of the senior members reach their retirement age, we want to find out not only the precise number of those who are retiring and eligible for retirement packages, but also what their present titles are within the company so that proper replacements can be found for the future absence.
